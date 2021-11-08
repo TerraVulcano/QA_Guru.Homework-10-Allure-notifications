@@ -51,3 +51,6 @@ test {
     useJUnitPlatform()
     systemProperties(System.getProperties())
 }
+
+// bot token 2117713310:AAG-1wYWifI-tHt1qDXtUZfoVF8XW17J3Jw
+// chat id -1001790659028
